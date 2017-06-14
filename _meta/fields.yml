@@ -1,0 +1,9 @@
+- key: cockroachbeat
+  title: cockroachbeat
+  description:
+  fields:
+    - name: counter
+      type: long
+      required: true
+      description: >
+        PLEASE UPDATE DOCUMENTATION

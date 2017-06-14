@@ -1,0 +1,5 @@
+= Cockroachbeat Docs
+
+Welcome to the Cockroachbeat documentation.
+
+
